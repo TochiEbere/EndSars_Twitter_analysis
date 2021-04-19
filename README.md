@@ -10,13 +10,13 @@ I believe the #EndSARS movement is one of the most powerful movements in Africa 
 * Sentiment analysis
 * Network analysis
 
-## Data gathering
+### Data gathering
 
 * Data was collected using the official Twitter API.
 * Keywords relevant to the movement were passed in as query parameters.
 * The time period of data collected was Jan. 2020 to Feb. 2021
 
-## Sentiment analysis
+### Sentiment analysis
 
 **Approach:**
 Three models used
@@ -24,7 +24,7 @@ Three models used
 * Textblob: uses a rule based approach
 * FastText: Supervised learning. Model was trained on tweets that do not necessarily represent the context of our data. (Precision and recall on validation set was about 0.8)
 
-*Challenge: Difficulty is getting labelled dataset with similar context to train on.
+*Challenge: Difficulty is getting labelled dataset with similar context to train on.*
 
 **Outcome:**
 * Sentiments varied across the three models.
@@ -33,7 +33,7 @@ Three models used
 * Negative sentiments were mostly captured by tweets expressing anger towards SARS and the government. Some adverts and jokes were also classified as negative sentiment.
 * Many false negatives and false positives were captured by all three models. 
 
-## Next steps
+### Next steps
 
 * Improve on the existing model with hyper-parameter tuning.
 * Calculate sentiment with respect to top accounts.
