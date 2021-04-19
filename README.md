@@ -42,4 +42,4 @@ Three models used
 * Turn model into an API.
 
 
-[^Note]: Need the dataset? Happy to share. Reach me on tochiebby@gmail.com
+*Need the dataset? Happy to share. Reach me on tochiebby@gmail.com*
