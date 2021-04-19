@@ -1,6 +1,6 @@
 # EndSars_Twitter_analysis
 
-I believe the #EndSARS movement is one of the most powerful movements in Africa over the last two decades. In this analysis, I seek to quantify the impact and provide data-informed answers to some questions.
+The #EndSARS movement appears to be one of the most powerful movements in Africa over the last two decades. In this analysis, I seek to quantify the impact and provide data-informed answers to some questions.
 
 ### Methodology
 
