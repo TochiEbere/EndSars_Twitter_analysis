@@ -8,7 +8,6 @@ I believe the #EndSARS movement is one of the most powerful movements in Africa 
 * Data cleaning
 * Data analysis
 * Sentiment analysis
-* Network analysis
 
 ## Data gathering
 
@@ -38,6 +37,7 @@ Three models used
 * Improve on the existing model with hyper-parameter tuning.
 * Calculate sentiment with respect to top accounts.
 * Calculate change in sentiment with respect to time.
+* Perform network analysis.
 * Deploy an interactive dashboard where visitors can get insights about the movement.
 * Turn model into an API.
 
